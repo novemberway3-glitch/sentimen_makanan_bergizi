@@ -1,0 +1,13 @@
+matplotlib
+pandas
+plotly
+python-dotenv
+Requests
+Sastrawi
+streamlit
+torch
+transformers
+tweepy
+wordcloud
+gdown
+groq
